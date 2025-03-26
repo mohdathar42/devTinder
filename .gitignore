@@ -4,4 +4,4 @@ build/
 *.log/
 
 *.env/
-.vscode/
+.vscode/settings.json
